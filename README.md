@@ -1,6 +1,7 @@
 # Color-Palettes
 [Live Demo](https://color-palettes-ten.vercel.app/)
-[![Video Name](Video Thumbnail Image URL)](https://vimeo.com/810022192)
+<iframe src="https://player.vimeo.com/video/810022192" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
 
 
 
